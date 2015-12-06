@@ -2,3 +2,5 @@
 Initial depository created as part of Maker's Manual tutorial
 
 This has been changed for sourcetree
+
+This has been changed for GitHub
